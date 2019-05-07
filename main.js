@@ -27,6 +27,7 @@ MainMenu.prototype = {
 	},
 	create: function(){
 		console.log('why did I copy all this code now changes are harder to locate');
+		console.log('this is XYZs spot');
 		console.log('MainMenu: create');
 
 		game.stage.backgroundColor = "#4E465B";
